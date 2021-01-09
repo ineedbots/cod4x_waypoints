@@ -13,7 +13,7 @@ This repo contains all of the waypoints in CSV format, a format that Bot Warfare
 
 - Freddy & Metaljag
 - CannerZ45
-- JAK
+- JAK (BF2all)
 - MikeTheGuy
 - Botmancod
 - Hugo HG
